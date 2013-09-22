@@ -4,7 +4,7 @@
     "email": "marak.squires@gmail.com"
   },
   "name": "hook.io",
-  "version": "0.8.11",
+  "version": "0.8.12",
   "repository": {
     "type": "git",
     "url": "git://github.com/gabesoft/hook.io.git"
@@ -23,8 +23,8 @@
       "email": "josh.holbrook@gmail.com"
     },
     {
-        "name": "Gabriel Adomnicai",
-        "email": "gabesoft@gmail.com"
+      "name": "Gabriel Adomnicai",
+      "email": "gabesoft@gmail.com"
     }
   ],
   "main": "./lib/hookio",
