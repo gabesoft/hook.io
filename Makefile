@@ -7,12 +7,6 @@ all: test
 
 .PHONY: release test loc clean
 
-run:
-	@./node_modules/node-dev/bin/node-dev lib/server.js
-
-run-test:
-	@./bin/mpr run ./test/support/procs.json
-
 tag:
 	@git tag -a "v$(VERSION)" -m "Version $(VERSION)"
 
@@ -29,7 +23,7 @@ test-all: build
 	@NODE_ENV=test $(MOCHA) -R spec test/*.coffee --timeout 10000
 
 loc:
-	@find src/ -name *.js | xargs wc -l
+	@find lib/ -name *.js | xargs wc -l
 
 setup:
 	@npm install . -d
