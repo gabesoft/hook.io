@@ -24,7 +24,7 @@
 
 # Usage
 
-If you are impatient and wish to jump straight to code, we have hundreds of code examples available here: [https://github.com/hookio/hook.io/tree/master/examples](https://github.com/hookio/hook.io/tree/master/examples)
+If you are impatient and wish to jump straight to code, we have hundreds of code examples available here: [https://github.com/gabesoft/hook.io/tree/master/examples](https://github.com/gabesoft/hook.io/tree/master/examples)
 
 - [using hook.io as a node.js script or as the hook binary](#script-versus-binary)
 - [hook.io repl](#hook-repl)
