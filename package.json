@@ -7,7 +7,7 @@
   "version": "0.8.11",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hookio/hook.io.git"
+    "url": "git://github.com/gabesoft/hook.io.git"
   },
   "contributors": [
     {
@@ -21,6 +21,10 @@
     {
       "name": "Joshua Holbrook",
       "email": "josh.holbrook@gmail.com"
+    },
+    {
+        "name": "Gabriel Adomnicai",
+        "email": "gabesoft@gmail.com"
     }
   ],
   "main": "./lib/hookio",
