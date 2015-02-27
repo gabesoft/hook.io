@@ -55,7 +55,7 @@
     "union": "0.3.x",
     "ecstatic": "0.1.x",
     "nconf": "~0.6.7",
-    "weak": "~0.2.2"
+    "weak": "~0.4.0"
   },
   "optionalDependencies": {
     "union": "0.3.x",
