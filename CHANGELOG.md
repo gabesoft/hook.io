@@ -1,3 +1,7 @@
+0.8.15
+-----
+Upgraded weak version
+
 0.8.14
 -----
 Makefile fixes

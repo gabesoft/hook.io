@@ -4,7 +4,7 @@
     "email": "marak.squires@gmail.com"
   },
   "name": "hook.io",
-  "version": "0.8.14",
+  "version": "0.8.15",
   "repository": {
     "type": "git",
     "url": "git://github.com/gabesoft/hook.io.git"
