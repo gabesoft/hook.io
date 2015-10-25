@@ -4,7 +4,7 @@
     "email": "marak.squires@gmail.com"
   },
   "name": "hook.io",
-  "version": "0.8.15",
+  "version": "0.8.16",
   "repository": {
     "type": "git",
     "url": "git://github.com/gabesoft/hook.io.git"
@@ -38,24 +38,24 @@
   "dependencies": {
     "async": "0.1.x",
     "colors": "0.x.x",
+    "ecstatic": "0.1.x",
     "eventemitter2": "0.4.x",
-    "optimist": "0.2.x",
-    "npm": "~1.1.x",
-    "pkginfo": "0.2.x",
+    "jsonify": "0.0.x",
+    "lazy": ">=1.0.5 <1.1",
     "mkdirp": "0.2.x",
-    "semver": "1.0.x",
-    "prompt": "0.1.x",
+    "nconf": "~0.6.7",
+    "npm": "~1.1.x",
+    "optimist": "0.2.x",
+    "pkginfo": "0.2.x",
     "portfinder": "0.2.x",
+    "prompt": "0.1.x",
+    "semver": "1.0.x",
     "socket.io": "0.9.6",
     "socket.io-client": "0.9.6",
-    "lazy": ">=1.0.5 <1.1",
     "traverse": "0.6.x",
-    "jsonify": "0.0.x",
-    "winston": "0.5.10",
     "union": "0.3.x",
-    "ecstatic": "0.1.x",
-    "nconf": "~0.6.7",
-    "weak": "~0.4.0"
+    "weak": "^1.0.0",
+    "winston": "0.5.10"
   },
   "optionalDependencies": {
     "union": "0.3.x",
